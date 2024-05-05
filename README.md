@@ -7,6 +7,6 @@ Arduino Application Code: The code written for Arduino microcontrollers to contr
 
 MIT App Inventor Application: The MIT App Inventor application used to create a user interface for controlling the robotic arm via Bluetooth communication.
 
-STL Files: The STL files necessary for 3D printing the components of the robotic arm, including its structure and moving parts.
+STL Files: The STL files necessary for 3D printing the components of the robotic arm
 
 
